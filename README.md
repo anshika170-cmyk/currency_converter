@@ -171,8 +171,7 @@ Currency-Converter/
 ├── script.js
 ├── README.md
 │
-└── assets/
-    └── flags/
+└──codes.js
 ```
 
 ## 💻 Installation and Setup
@@ -207,40 +206,3 @@ To: INR
 
 The application fetches the current exchange rate and displays the converted INR amount.
 
-## 🔮 Future Improvements
-
-* [ ] Add dark/light mode
-* [ ] Add conversion history
-* [ ] Add popular currency shortcuts
-* [ ] Add historical exchange-rate charts
-* [ ] Add offline fallback
-* [ ] Add loading animation
-* [ ] Add more detailed error messages
-* [ ] Add automatic currency detection
-* [ ] Add cryptocurrency conversion
-* [ ] Add PWA support
-
-## 🧠 Learning Outcomes
-
-Through this project, I practiced:
-
-* JavaScript fundamentals
-* DOM manipulation
-* Event handling
-* API integration
-* Fetch API
-* Async/Await
-* JSON data handling
-* Error handling
-* Dynamic HTML generation
-* Responsive web design
-
-## 👩‍💻 Author
-
-**Anshika Singh**
-
-Aspiring Software Developer | Web Developer | Problem Solver
-
----
-
-⭐ If you found this project useful, consider giving the repository a star!
