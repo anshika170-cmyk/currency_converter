@@ -174,35 +174,3 @@ Currency-Converter/
 └──codes.js
 ```
 
-## 💻 Installation and Setup
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/currency-converter.git
-```
-
-### 2. Navigate to the project
-
-```bash
-cd currency-converter
-```
-
-### 3. Open the project
-
-Open `index.html` in your browser.
-
-You can also use **Live Server** in VS Code for easier development.
-
-## 🎯 Example
-
-Suppose the user enters:
-
-```text
-Amount: 100
-From: USD
-To: INR
-```
-
-The application fetches the current exchange rate and displays the converted INR amount.
-
