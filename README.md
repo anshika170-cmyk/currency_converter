@@ -32,55 +32,56 @@ This project helped practice several important JavaScript concepts:
 
 ### 1. Variables
 
-javascript
+```javascript
 let amount = 100;
 const fromCurrency = "USD";
-
+```
 
 ### 2. Functions
 
 Functions are used to organize the conversion logic and UI operations.
 
-javascript
+```javascript
 function convertCurrency() {
     // conversion logic
 }
-
+```
 
 ### 3. DOM Manipulation
 
 JavaScript is used to access and modify HTML elements dynamically.
 
-javascript
+```javascript
 const amountInput = document.querySelector("#amount");
-
+```
 
 ### 4. Event Listeners
 
 User interactions are handled using event listeners.
 
-javascript
+```javascript
 button.addEventListener("click", convertCurrency);
-
+```
 
 ### 5. Fetch API
 
 The application fetches exchange-rate information from an external API.
 
-javascript
+```javascript
 const response = await fetch(apiURL);
 const data = await response.json();
-
+```
 
 ### 6. Async/Await
 
 `async` and `await` are used to handle API requests cleanly.
 
-javascript
+```javascript
 async function getExchangeRate() {
     const response = await fetch(apiURL);
     const data = await response.json();
 }
+```
 
 ### 7. JSON
 
@@ -209,4 +210,37 @@ The application fetches the current exchange rate and displays the converted INR
 ## 🔮 Future Improvements
 
 * [ ] Add dark/light mode
-* [ ] Add conversion
+* [ ] Add conversion history
+* [ ] Add popular currency shortcuts
+* [ ] Add historical exchange-rate charts
+* [ ] Add offline fallback
+* [ ] Add loading animation
+* [ ] Add more detailed error messages
+* [ ] Add automatic currency detection
+* [ ] Add cryptocurrency conversion
+* [ ] Add PWA support
+
+## 🧠 Learning Outcomes
+
+Through this project, I practiced:
+
+* JavaScript fundamentals
+* DOM manipulation
+* Event handling
+* API integration
+* Fetch API
+* Async/Await
+* JSON data handling
+* Error handling
+* Dynamic HTML generation
+* Responsive web design
+
+## 👩‍💻 Author
+
+**Anshika Singh**
+
+Aspiring Software Developer | Web Developer | Problem Solver
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
