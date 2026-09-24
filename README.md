@@ -174,3 +174,8 @@ Currency-Converter/
 └──codes.js
 ```
 
+👩‍💻 Author
+
+Anshika Singh
+
+Aspiring Software Developer | Web Developer | Problem Solver
